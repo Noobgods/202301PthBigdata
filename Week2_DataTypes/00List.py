@@ -25,6 +25,8 @@ del e[0]    # 삭제
 
 del e[-1][0:-1]     # 삭제 (슬라이싱과 2차원 리스트)
 
-list = [1,2, 'A', 'a', ["Life", "Is"], '  Too', 'Short  ']
+list = [1,2, 'A', 'a', ["Life", "Is"], '  Too', 'Short  '] # 여러가지 자료형을 담은 리스트 선언
+list.insert(3, 'B')     # list[3] 위치에 'B' 삽입  
+# list = [1, 2, 'A', 'B', 'a', ['Life', 'Is'], '  Too', 'Short  ']
 
 # 리스트 관련 함수
