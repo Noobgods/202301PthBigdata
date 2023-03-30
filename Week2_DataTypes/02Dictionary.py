@@ -1,5 +1,5 @@
 # 딕셔너리는 요소는 Key:Value 의 형태를 가지고 있음
-dic = {'name':'jun', 'phone':'010-1010-1010', 'birth':'0311'}
+dic = {'name':'jun', 'phone':'010-1010-1010', 'birth':'0311'} # 딕셔너리 선언
 
 a = {0: 0}
 b = {1: 'b'}
@@ -24,7 +24,7 @@ dic.items()
 
 # Key로 Value 얻기 (None 리턴 / 배열 접근은 에러)
 dic.get('name')
-dic.get('tele', 'phone')    # tele 없으면 phone 리턴
+dic.get('tele', 'blank')    # get(key, default) / tele 없으면 blank 리턴
 
 # Key가 있는지 조사
 'name' in dic       # True 리턴

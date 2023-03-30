@@ -2,6 +2,7 @@
 
 [1주차 내용](https://github.com/Goodgaym/202301PthBigdata/blob/master/Week1_PythonBasic/Contents.md)   
 [2주차 내용](https://github.com/Goodgaym/202301PthBigdata/blob/master/Week2_DataTypes/Contents.md)   
+[3주차 내용](https://github.com/Goodgaym/202301PthBigdata/blob/master/Week3_ControlStatement/Contents.md)   
 .   
 .   
 .   
