@@ -60,4 +60,4 @@ class Cow:
 milk_cow = Cow(True)
 print(milk_cow.drink())
 
-# :: 복사해서 Inheritance.pt 작성
+# :: 복사해서 Inheritance.py 작성
