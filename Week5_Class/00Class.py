@@ -24,7 +24,7 @@ print(jindodog.cry())
 class Cat:
     bell = False
 
-    def cry(self) :     # 벨이 있으면 딸랑, 없으면 냐옹
+    def cry(self) :             # 벨이 있으면 딸랑, 없으면 냐옹
         if self.bell == True :
             return "jingle"
         else :

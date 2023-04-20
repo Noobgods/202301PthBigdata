@@ -25,9 +25,6 @@ from framework.sound import *
 volume.volumeUp()
 
 # relative 패키지
-# relative는 파일 디렉토리의 상대 경로처럼 작성할 수 있게 한다.
-# .  : 현재 디렉토리
-# .. : 상위 디렉토리
 # -> render.py 작성
-from framework.graphic.render import rendering
+from .framework.graphic.render import rendering
 rendering()

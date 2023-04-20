@@ -1,9 +1,9 @@
 # 모듈에서 함수, 변수, 클래스를 지정해서 포함 가능
 
-#from inheritance import Dog
-from inheritance import *   # *은 해당 모듈의 함수, 변수, 클래스를 모두 import 해준다.
+#from animal import Dog     # Dog 클래스만 가져옴
+from animal import *        # *은 해당 모듈의 함수, 변수, 클래스를 모두 import 해준다.
 
-poodle = Dog(2)     # Dog가 import 되어야한다.
+poodle = Dog(2)             # Dog가 import 되어야한다.
 print(poodle.cry())
 print(poodle.count)
 
