@@ -5,6 +5,7 @@
 [3주차 내용](https://github.com/Goodgaym/202301PthBigdata/blob/master/Week3_ControlStatement/Contents.md)   
 [4주차 내용](https://github.com/Goodgaym/202301PthBigdata/blob/master/Week4_Function/Contents.md)   
 [5주차 내용](https://github.com/Goodgaym/202301PthBigdata/blob/master/Week5_Class/Contents.md)   
+[6주차 내용](https://github.com/Goodgaym/202301PthBigdata/blob/master/Week6_DataExtract/Contents.md)   
 .   
 .   
 .   
