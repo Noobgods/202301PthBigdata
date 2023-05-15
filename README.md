@@ -7,7 +7,7 @@
 [5주차 내용](https://github.com/Goodgaym/202301PthBigdata/blob/master/Week5_Class/_Contents_md)   
 [Colab VSCode에 연동하기](https://github.com/Goodgaym/202301PthBigdata/blob/master/Week6_DataExtract/_ColabAndVSCode.md)
 [6주차 내용](https://github.com/Goodgaym/202301PthBigdata/blob/master/Week6_DataExtract/_Contents_md)   
-[6주차 내용](https://github.com/Goodgaym/202301PthBigdata/blob/master/Week7_Modify/_Contents_md)   
+[7주차 내용](https://github.com/Goodgaym/202301PthBigdata/blob/master/Week7_Modify/_Contents_md)   
 .   
 .   
 .   
