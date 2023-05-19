@@ -8,9 +8,11 @@
 [Colab VSCode에 연동하기](https://github.com/Goodgaym/202301PthBigdata/blob/master/Week6_DataExtract/_ColabAndVSCode.md)
 [6주차 내용](https://github.com/Goodgaym/202301PthBigdata/blob/master/Week6_DataExtract/_Contents_md)   
 [7주차 내용](https://github.com/Goodgaym/202301PthBigdata/blob/master/Week7_Modify/_Contents_md)   
-.   
-.   
-.   
+ 
+8주차 부터는 실습 예제 파일에 주석으로 코드 설명을 적어 놓았습니다.
+
+<br/><br/><br/>
+
 - - - 
 ## 강좌 일정
 |주차|강좌일자|강좌내용|강좌 변동 사항|
