@@ -69,3 +69,32 @@ GDRIVE_HOME = 'content/drive/MyDrive'
 research_root = os.path.join(GDRIVE_HOME, 'research')
 sys.path.append(research_root)
 ```
+
+<br/><br/>
+
+# 로컬 컴퓨터 환경에서 노트북 예제 사용하기
+
+## 설치할 외부 패키지 설치
+
+아래의 외부 패키지들은 아래와 같은 명령어를 Terminal 창에서 입력하여 패키지를 설치한다.
+
+```pip install {패키지 이름}```
+
+패키지를 설치하게 되면 패키지를 import하고 사용할 수 있다.
+
+.ipynb 확장자로 파일을 생성하면 colab과 같이 노트북을 사용할 수 있다.   
+코드셀 실행시 kernal을 base(또는 현재 환경에 설정되어 있는 파이썬)로 설정하여 코드셀을 실행하면 된다.
+
+<br/>
+
+### 설치할 패키지
+```pandas``` : 데이터 처리와 분석을 위해 시리즈, 데이터프레임을 구성하고 다루기 위한 패키지
+
+```matplotlib``` : numpy 라이브러리를 활용한 데이터 시각화 패키지
+
+```beautifulsoup4``` : HTML과 XML 문서들의 구문을 분석하기 위한 패키지
+
+### 기타 패키지
+```numpy``` : 고성능의 수치 계산을 할 수 있는 수학, 과학 연산을 위한 라이브러리 (pandas 또는 matplotlib을 설치하면 자동으로 설치됨)
+
+```gdown``` : 구글 드라이브에서 파일을 가져올 수 있게 하는 패키지 (구글 드라이브를 이용하여 파일을 사용할 경우 선택사항)
